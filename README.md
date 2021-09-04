@@ -2,4 +2,4 @@
 Simple CRUD REST API using Laravel 7
 
 ## Tech Stack
-Laravel 7, PHP
+PHP 7, Laravel 7
